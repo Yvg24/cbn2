@@ -1,0 +1,52 @@
+.services{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+        margin: 5px 0px 6px 0px;
+        padding: 0px 0px 10px 0px;
+        background: url("bodyback2.jpg") ;
+        background-size: cover;
+    
+   
+  
+}
+
+.products h5{
+    font-family: 'Great Vibes', cursive;
+    font-size: 3em;
+    overflow-x: auto;
+    margin: 10px 0px 5px 0px;
+    padding: 3px 0px 5px 0px;
+}
+
+/* table{
+    
+    background-color: white;
+}
+th{
+    height: 50px;
+    text-align: center;
+    width: 450px;
+    font-family: 'Girassol';
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+td{
+    font-family: 'Girassol';
+    font-size: 1.2rem;
+    /* margin: 0px 0px 0px 0px; */
+    padding: 6px 0px 6px 20px;
+
+}
+tl{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+tr:nth-child(even){
+background-color: rgb(242, 204, 243);
+}
+.tabel-holder{
+    display: flex;
+    justify-content: center;
+    
+} */
